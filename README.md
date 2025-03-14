@@ -64,9 +64,7 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 
 # Output
-![WhatsApp Image 2025-03-13 at 10 18 28_d30e767a](https://github.com/user-attachments/assets/4138f110-749f-49be-b93d-7848c22d6f62)
-
-
+![ex4](https://github.com/user-attachments/assets/5a122bac-211e-4d95-a5b6-e8bac89379a5)
 
 
 
